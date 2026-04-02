@@ -1,0 +1,2 @@
+Program,Rank,Processes,Elements,TotalTime,ComputeTime,IOTime,Sum
+SERIAL,-1,1,67108864,1.00000000,0.27617666,0.03922305,0.23695173
